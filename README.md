@@ -1,1 +1,0 @@
-# ineuron_learing_implimentation
